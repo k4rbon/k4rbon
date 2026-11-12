@@ -29,7 +29,6 @@ Buduję aplikacje mobilne, strony i narzędzia dla firm i społeczności: od pro
 | **[solApp](https://github.com/k4rbon/SolDominium-APP)** | Prywatna aplikacja mobilna dla firmy SOL DOMINIUM: montaże PV, zdjęcia z GPS, magazyn, materiałówki i wyceny w PDF. Android i iOS. |
 | **[krnBot](https://github.com/k4rbon/krnBot)** | Bot Discord z panelem www: tickety, moderacja, whitelista i blacklista, historia spraw. |
 | **[Nexora Launcher](https://github.com/k4rbon/NexoraLauncher)** | Lekki launcher Minecraft dla kont premium, z własnymi aktualizacjami. Tauri, Rust i Svelte. |
-| **[anbot.pl](https://anbot.pl)** | Ogólnodostępny bot Discord z własnym panelem. |
 | **[krngg.dev](https://krngg.dev)** | Moje portfolio zrobione w formie systemu operacyjnego. |
 
 <br>
