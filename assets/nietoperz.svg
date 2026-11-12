@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 200 200" role="img" aria-label="Logo krngg: różowy nietoperz">
+        <g transform="translate(0 9)">
+          <path d="M84 86 C66 70 40 58 12 60 C22 74 24 90 20 108 C30 100 42 100 48 110 C54 100 66 98 72 108 C76 100 82 98 86 104 Z" fill="#ff3d9a"></path>
+          <path d="M116 86 C134 70 160 58 188 60 C178 74 176 90 180 108 C170 100 158 100 152 110 C146 100 134 98 128 108 C124 100 118 98 114 104 Z" fill="#ff3d9a"></path>
+          <path d="M82 90 L24 64 M82 95 L48 106 M84 99 L72 105 M118 90 L176 64 M118 95 L152 106 M116 99 L128 105" stroke="#1c0612" stroke-width="2" stroke-linecap="round" opacity="0.28"></path>
+          <path d="M80 72 L83 42 L97 62 Z" fill="#ff3d9a" stroke="#ff3d9a" stroke-width="6" stroke-linejoin="round"></path>
+          <path d="M120 72 L117 42 L103 62 Z" fill="#ff3d9a" stroke="#ff3d9a" stroke-width="6" stroke-linejoin="round"></path>
+          <rect x="76" y="58" width="48" height="80" rx="24" fill="#ff3d9a"></rect>
+          <ellipse cx="91" cy="84" rx="5" ry="6" fill="#1c0612"></ellipse>
+          <ellipse cx="109" cy="84" rx="5" ry="6" fill="#1c0612"></ellipse>
+          <circle cx="92.6" cy="82" r="1.8" fill="#fdf0f6"></circle>
+          <circle cx="110.6" cy="82" r="1.8" fill="#fdf0f6"></circle>
+          <path d="M94 97 L96.5 104 L99 97 Z M101 97 L103.5 104 L106 97 Z" fill="#fdf0f6"></path>
+        </g>
+      </svg>
